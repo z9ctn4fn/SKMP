@@ -1,0 +1,24 @@
+C:\Users\Archangel\Documents\gug\SKMP\bin\Debug\net9.0\SKMP.deps.json
+C:\Users\Archangel\Documents\gug\SKMP\bin\Debug\net9.0\SKMP.dll
+C:\Users\Archangel\Documents\gug\SKMP\bin\Debug\net9.0\SKMP.pdb
+C:\Users\Archangel\Documents\gug\SKMP\obj\Debug\net9.0\SKMP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Archangel\Documents\gug\SKMP\obj\Debug\net9.0\SKMP.AssemblyInfoInputs.cache
+C:\Users\Archangel\Documents\gug\SKMP\obj\Debug\net9.0\SKMP.AssemblyInfo.cs
+C:\Users\Archangel\Documents\gug\SKMP\obj\Debug\net9.0\SKMP.csproj.CoreCompileInputs.cache
+C:\Users\Archangel\Documents\gug\SKMP\obj\Debug\net9.0\SKMP.sourcelink.json
+C:\Users\Archangel\Documents\gug\SKMP\obj\Debug\net9.0\SKMP.dll
+C:\Users\Archangel\Documents\gug\SKMP\obj\Debug\net9.0\refint\SKMP.dll
+C:\Users\Archangel\Documents\gug\SKMP\obj\Debug\net9.0\SKMP.pdb
+C:\Users\Archangel\Documents\gug\SKMP\obj\Debug\net9.0\ref\SKMP.dll
+C:\Users\Archangel\Documents\gug\SKMP\obj\Debug\net9.0\SKMP.csproj.AssemblyReference.cache
+C:\Users\Archangel\Documents\gug\SKMP\bin\Debug\net9.0\BepInEx.dll
+C:\Users\Archangel\Documents\gug\SKMP\bin\Debug\net9.0\UnityEngine.CoreModule.dll
+C:\Users\Archangel\Documents\gug\SKMP\bin\Debug\net9.0\UnityEngine.dll
+C:\Users\Archangel\Documents\gug\SKMP\obj\Debug\net9.0\SKMP.csproj.Up2Date
+C:\Users\Archangel\Documents\gug\SKMP\bin\Debug\net9.0\Facepunch Transport for Netcode for GameObjects.dll
+C:\Users\Archangel\Documents\gug\SKMP\bin\Debug\net9.0\Facepunch.Steamworks.Win64.dll
+C:\Users\Archangel\Documents\gug\SKMP\bin\Debug\net9.0\Unity.Netcode.Components.dll
+C:\Users\Archangel\Documents\gug\SKMP\bin\Debug\net9.0\Unity.Netcode.Runtime.dll
+C:\Users\Archangel\Documents\gug\SKMP\bin\Debug\net9.0\Unity.Networking.Transport.dll
+C:\Users\Archangel\Documents\gug\SKMP\bin\Debug\net9.0\Assembly-CSharp.dll
+C:\Users\Archangel\Documents\gug\SKMP\bin\Debug\net9.0\BetterConsole.dll
